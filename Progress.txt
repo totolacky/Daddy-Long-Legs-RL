@@ -1,0 +1,16 @@
+2020/03/14 - 기본 setting
+ - PC에서 Daddy long legs 실행 (Nox 이용)
+ - 화면 캡쳐 구현
+ - OpenCV 이용해 daddy의 모습만 캡쳐
+
+2020/03/15
+ - Colab 연동
+
+2020/03/16 - gameplay 환경 구현
+ - 파이썬 클릭 구현
+  - touch/restart 구현
+ - OCR 이용한 점수 인식 (tesseract 이용)
+ - Gameover 인식
+
+TODO:
+ - 알고리즘 구현
